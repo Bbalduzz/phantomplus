@@ -2,7 +2,7 @@
   Phantomplus
 </h1>
 
-<h4 align="center">Python Disney Plus API Metadata & Downloader for Windows and Linux</h4>
+<h4 align="center">Python Disney Plus API Metadata & Downloader for Windows, Macos and Linux</h4>
 
 <p align="center">
   <a href="#features">Features</a> •
