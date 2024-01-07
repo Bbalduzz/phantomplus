@@ -1,0 +1,8 @@
+pathlib
+m3u8
+ffmpy
+requests
+pycountry
+datetime
+svtplay_dl
+cryptography
