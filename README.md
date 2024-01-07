@@ -44,6 +44,10 @@ Working folder example:
 └─── main.py
 ```
 
+
 Now open a terminal on the working dir and run:
 - `pip install -r requirements.txt` 
 - `py main.py`
+
+## Demo
+https://github.com/Bbalduzz/phantomplus/assets/81587335/2a49f72f-63ba-4b11-8e53-90dbf0e08e39
